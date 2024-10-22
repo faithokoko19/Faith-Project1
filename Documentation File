@@ -1,0 +1,22 @@
+Documentation File
+
+My platform had 4 pages
+	- The home page which has a header and a footer and a welcome message for the users
+	- The service page which list and describes our services
+	- The contact page which lets the user know they can reach us via email
+	- The order page which allows the user to order pillows, mirrors and blankets in specified quantities and calculates the cost for the user.
+
+
+How I Adapted The Code
+  - I adapted the code by changing the company name for the page and order form codes, and also for all the other pages
+  - I also used my own custom colors and aligned the logo center
+  - Also, for the order form I changed the names of the products and the respective prices
+  - I made my own simple php code for the contact form
+  - The order form let's the user enter his or her address and also outputs the time of the transaction
+  - Exceptions are used to account for errors
+
+
+Challenges
+  - I had an undefined function error for the each() function
+  - I also had undefined array errors for the products
+

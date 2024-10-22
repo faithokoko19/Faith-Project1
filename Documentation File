@@ -8,15 +8,15 @@ My platform had 4 pages
 
 
 How I Adapted The Code
-  - I adapted the code by changing the company name for the page and order form codes, and also for all the other pages
-  - I also used my own custom colors and aligned the logo center
-  - Also, for the order form I changed the names of the products and the respective prices
-  - I made my own simple php code for the contact form
-  - The order form let's the user enter his or her address and also outputs the time of the transaction
-  - Exceptions are used to account for errors
+ 	 - I adapted the code by changing the company name for the page and order form codes, and also for all the other pages
+ 	 - I also used my own custom colors and aligned the logo center
+  	- Also, for the order form I changed the names of the products and the respective prices
+ 	 - I made my own simple php code for the contact form
+ 	 - The order form let's the user enter his or her address and also outputs the time of the transaction
+ 	 - Exceptions are used to account for errors
 
 
 Challenges
-  - I had an undefined function error for the each() function
-  - I also had undefined array errors for the products
+ 	 - I had an undefined function error for the each() function
+ 	 - I also had undefined array errors for the products
 
